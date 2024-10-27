@@ -3,5 +3,5 @@
 
 #include "vkvg.h"
 
-void _highlight (VkvgContext ctx);
+void _highlight(VkvgContext ctx);
 #endif // VKVG_EXTENSIONS_H
